@@ -77,3 +77,18 @@ hr {
 .navigation .link-active {
     font-weight: bold;
 }
+
+.src .srcone {
+  margin: auto;
+  max-width: 300px;
+  display: block;
+}
+
+.src .srctwo {
+  margin: auto;
+  max-width: 300px;
+  display: block;
+  font-size: 1.8rem;
+  color: red;
+  font-weight: bold;
+}
